@@ -1,19 +1,27 @@
 ## Jacob Hanrahan
+###Coding Enthusiast
 
-I'm a London born, work focused, problem solving person with a curious background. Before this I spent 10 years working in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Because in essence thats what it is, finding a solution to a problem and how to achieve it. Added to that I am completly addicted to coding.
+Born and raised in London, and coding sparked my curiostiy. Previously I worked for 10 years in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Using creativity to find the most efficent solution.
+
+## Projects
+
+| Name                         | Description              | Tech/tools        |
+| ---------------------------- | ------------------------ | ----------------- |
+| **FizzBuzz Pair-Programming**| A TDD FizzBuzz Challenge | Ruby, Cloud9      |
+| **TBD**                      |                          |                   |
+
 
 ## Work Experience
 
-**Youngs & co.** (01/2018  - 10/2018)  
+**Youngs & co. (Jan/2018  - Oct/2018)  
 Assistant Manager
 - Ordering, stock management
 - Managing people and staff
-- Problem solving
 
-**Greene King** (09/2015 - 01/2018)  
+**Greene King (Sep/2015 - Jan/2018)  
 Deputy General Manager
 - Management of the daily running of the bar restaurant
-- Trained as a manager by the biggest pub company in the world
+- I trained as a manager by the biggest pub company in the world
 
 ## Skills
 
@@ -38,18 +46,21 @@ Of course I like my down time. But I confess I am a bit of a workaholic. From 12
 
 ## Education
 
-#### Makers Academy (09/2021 - 01/2022)
+#### Makers Academy (Sep/2021 - Jan/2022)
+Highly selective 12 week coding bootcamp
 We started by mastering comand lines and ruby as well as developing skills in test driven development and pairprogrammming.
 
-#### Middlesex University (09/2016 - 03/2018)
--I studied Bsc- (Adult) Nursing with registration
--Was the Student Voice Leader for the year
--Unfortunatly due to personal circumstances I was unable to complete the course.
+#### Middlesex University (Sep/2016 - Mar/2018)
+- Bsc- (Adult) Nursing with registration
+- I was the Student Voice Leader for the year
+#### La Swap Sixth form (Sep/2009 - Jul/2011)
+- Law A-level
+- Georgraphy A-level
+- English (lang) A-level
 
 
 ## Hobbies
 - Motorcycles
-- Brazilian Ju Jitsu
 - Scuba Diving
 - Rock Climbing
 - Painting (but I'm a begginer)
