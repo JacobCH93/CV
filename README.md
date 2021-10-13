@@ -1,9 +1,9 @@
 # Jacob Hanrahan
 ### Coding Enthusiast
 
-| [Projects](#projects) | [Work-Expirience](#work-expirience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
+| [Projects](#projects) | [Work-Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
 ***
-Born and raised in London, and coding sparked my curiostiy. Previously I worked for 10 years in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Using creativity to find the most efficent solution.
+Born and raised in London, and coding sparked my curiosity. Previously I worked for 10 years in hospitality, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers perfectly over to coding. Using creativity to find the most effcient solution.
 ***
 ## <a name="projects">Projects</a>
 
@@ -14,7 +14,7 @@ Born and raised in London, and coding sparked my curiostiy. Previously I worked 
 | **Many future projects to come** | **TBD**                      | **TBD**
 
 ***
-## <a name="work-expirience">Work-Expirience</a>
+## <a name="work-experience">Work-Experience</a>
 
 **Youngs & co. (Jan/2018  - Oct/2018)  
 Assistant Manager**
@@ -35,13 +35,13 @@ I learn new skills very quickly, although mastering them of course takes time. I
 As a coder of any kind you need to think outside of the box. I think in ways that focus on the solution and then lay out the steps to achieve it.
 
 #### Enthusiasm
-You will very rarely catch me without a smile on my face. I want to learn. I want to push. And I want everyone to feel like they have achived something by the end of the day. 
+You will very rarely catch me without a smile on my face. I want to learn. I want to push. And I want everyone to feel like they have achieved something by the end of the day. 
 
-#### Interpesonal Management
-I have 4 years expience managing people. I would solve any problem given by the satff efficiently and affectivly. This ensured a safe and happy and work environment and produced healthy profits for the company. Always invest in staff members, no matter how small their roll.
+#### Interpersonal Management
+I have 4 years experience managing people. I would solve any problem given by the saff efficiently and effectivly. This ensured a safe and happy work environment and produced healthy profits for the company. Always invest in staff members, no matter how small their role.
 
 #### Stock Control
-By the end of my fouth year managing I had moved to a large club/bar with a 1000 people capacity. It was my respsibility to order in the stock and keep track of around £30,000 cost price alcohol. Where there were shortfalls and surpluses I would need to find the reason and correct it for the following week.
+By the end of my fourth year managing I had moved to a large club/bar with a 1000 people capacity. It was my responsibility to order in the stock and keep track of around £30,000 cost price alcohol. Where there were shortfalls and surpluses I would need to find the reason and correct it for the following week.
 
 #### Work Mentality
 Of course I like my down time. But I confess I am a bit of a workaholic. From 120 hour weeks to 3 jobs at once, I never back down from a challenge and only finish when the job is done.
@@ -51,14 +51,14 @@ Of course I like my down time. But I confess I am a bit of a workaholic. From 12
 
 #### Makers Academy (Sep/2021 - Jan/2022)
 Highly selective 12 week coding bootcamp
-We started by mastering comand lines and ruby as well as developing skills in test driven development and pairprogrammming.
+We started by mastering command lines and ruby as well as developing skills in test driven development and pair programming.
 
 #### Middlesex University (Sep/2016 - Mar/2018)
 - Bsc- (Adult) Nursing with registration
 - I was the Student Voice Leader for the year
 #### La Swap Sixth form (Sep/2009 - Jul/2011)
 - Law A-level
-- Georgraphy A-level
+- Geography A-level
 - English (lang) A-level
 
 ***
@@ -66,4 +66,4 @@ We started by mastering comand lines and ruby as well as developing skills in te
 - Motorcycles
 - Scuba Diving
 - Rock Climbing
-- Painting (but I'm a begginer)
+- Painting (but I'm a begginner)
