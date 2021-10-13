@@ -1,9 +1,11 @@
 ## Jacob Hanrahan
 ### Coding Enthusiast
 
+| [Projects](#projects) | [Work-Expirience(#work-expirience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
+
 Born and raised in London, and coding sparked my curiostiy. Previously I worked for 10 years in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Using creativity to find the most efficent solution.
 
-## Projects
+## <a name="projects">Projects</a>
 
 | Name                         | Description              | Tech/tools        |
 | ---------------------------- | ------------------------ | ----------------- |
@@ -11,7 +13,7 @@ Born and raised in London, and coding sparked my curiostiy. Previously I worked 
 | **TBD**                      |                          |                   |
 
 
-## Work Experience
+## <a name="work-expirience">Work-Expirience</a>
 
 **Youngs & co. (Jan/2018  - Oct/2018)  
 Assistant Manager**
@@ -23,7 +25,7 @@ Deputy General Manager**
 - Management of the daily running of the bar restaurant
 - I trained as a manager by the biggest pub company in the world
 
-## Skills
+## <a name="skills">Skills</a>
 
 #### Adaptive
 I learn new skills very quickly, although mastering them of course takes time. I move into new teams quickly and work well both leading a team and being part of a team.
@@ -44,7 +46,7 @@ By the end of my fouth year managing I had moved to a large club/bar with a 1000
 Of course I like my down time. But I confess I am a bit of a workaholic. From 120 hour weeks to 3 jobs at once, I never back down from a challenge and only finish when the job is done.
 
 
-## Education
+## <a name="education">Education</a>
 
 #### Makers Academy (Sep/2021 - Jan/2022)
 Highly selective 12 week coding bootcamp
@@ -59,7 +61,7 @@ We started by mastering comand lines and ruby as well as developing skills in te
 - English (lang) A-level
 
 
-## Hobbies
+## <a name="interests">Interests</a>
 - Motorcycles
 - Scuba Diving
 - Rock Climbing
