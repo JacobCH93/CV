@@ -48,8 +48,8 @@ We started by mastering comand lines and ruby as well as developing skills in te
 
 
 ## Hobbies
--Motorcycles
--Brazilian Ju Jitsu
--Scuba Diving
--Rock Climbing
--Painting (but I'm a begginer)
+- Motorcycles
+- Brazilian Ju Jitsu
+- Scuba Diving
+- Rock Climbing
+- Painting (but I'm a begginer)
