@@ -1,4 +1,4 @@
-## Jacob Hanrahan
+# Jacob Hanrahan
 ### Coding Enthusiast
 
 | [Projects](#projects) | [Work-Expirience](#work-expirience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
@@ -37,10 +37,10 @@ As a coder of any kind you need to think outside of the box. I think in ways tha
 You will very rarely catch me without a smile on my face. I want to learn. I want to push. And I want everyone to feel like they have achived something by the end of the day. 
 
 #### Interpesonal Management
-I have 4 years expience managing people. I would solve any problem given by the satff efficiently and affectivly. If there were problems between the staff members I would take an open aproach and try to come up with an ammpicable soultion. This ensured a safe and happy and work environment and produced healthy profits for the company. Always invest in staff members, no matter how small their roll.
+I have 4 years expience managing people. I would solve any problem given by the satff efficiently and affectivly. This ensured a safe and happy and work environment and produced healthy profits for the company. Always invest in staff members, no matter how small their roll.
 
 #### Stock Control
-By the end of my fouth year managing I had moved to a large club/bar with a 1000 people capacity. It was my respsibility to order in the stock and keep track of how it was used. In order to this I needed to take stock every week of thousands of  units of product that would be around £30,000 cost price. Where there were shorfalls and surpluses I would need to find the reason and correct it the following week.
+By the end of my fouth year managing I had moved to a large club/bar with a 1000 people capacity. It was my respsibility to order in the stock and keep track of around £30,000 cost price alcohol. Where there were shortfalls and surpluses I would need to find the reason and correct it for the following week.
 
 #### Work Mentality
 Of course I like my down time. But I confess I am a bit of a workaholic. From 120 hour weeks to 3 jobs at once, I never back down from a challenge and only finish when the job is done.
