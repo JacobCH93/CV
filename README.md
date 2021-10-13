@@ -2,9 +2,9 @@
 ### Coding Enthusiast
 
 | [Projects](#projects) | [Work-Expirience](#work-expirience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
-
+***
 Born and raised in London, and coding sparked my curiostiy. Previously I worked for 10 years in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Using creativity to find the most efficent solution.
-
+***
 ## <a name="projects">Projects</a>
 
 | Name                             | Description                  | Tech/tools        |
@@ -13,7 +13,7 @@ Born and raised in London, and coding sparked my curiostiy. Previously I worked 
 | **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design   |
 | **Many future projects to come** | **TBD**                      | **TBD**
 
-
+***
 ## <a name="work-expirience">Work-Expirience</a>
 
 **Youngs & co. (Jan/2018  - Oct/2018)  
@@ -25,7 +25,7 @@ Assistant Manager**
 Deputy General Manager**
 - Management of the daily running of the bar restaurant
 - I trained as a manager by the biggest pub company in the world
-
+***
 ## <a name="skills">Skills</a>
 
 #### Adaptive
@@ -46,7 +46,7 @@ By the end of my fouth year managing I had moved to a large club/bar with a 1000
 #### Work Mentality
 Of course I like my down time. But I confess I am a bit of a workaholic. From 120 hour weeks to 3 jobs at once, I never back down from a challenge and only finish when the job is done.
 
-
+***
 ## <a name="education">Education</a>
 
 #### Makers Academy (Sep/2021 - Jan/2022)
@@ -61,7 +61,7 @@ We started by mastering comand lines and ruby as well as developing skills in te
 - Georgraphy A-level
 - English (lang) A-level
 
-
+***
 ## <a name="interests">Interests</a>
 - Motorcycles
 - Scuba Diving
