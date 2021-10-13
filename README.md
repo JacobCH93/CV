@@ -7,10 +7,11 @@ Born and raised in London, and coding sparked my curiostiy. Previously I worked 
 
 ## <a name="projects">Projects</a>
 
-| Name                         | Description              | Tech/tools        |
-| ---------------------------- | ------------------------ | ----------------- |
-| **FizzBuzz Pair-Programming**| A TDD FizzBuzz Challenge | Ruby, Cloud9      |
-| **TBD**                      |                          |                   |
+| Name                             | Description                  | Tech/tools        |
+| ----------------------------     | ------------------------     | ----------------- |
+| **FizzBuzz Pair-Programming**    | A TDD FizzBuzz Challenge     | Ruby, Cloud9      |
+| **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design   |
+| **Many future projects to come** | **TBD**                      | **TBD**
 
 
 ## <a name="work-expirience">Work-Expirience</a>
