@@ -1,5 +1,5 @@
 ## Jacob Hanrahan
-###Coding Enthusiast
+### Coding Enthusiast
 
 Born and raised in London, and coding sparked my curiostiy. Previously I worked for 10 years in hospitlaity, 4 of which were as a manager. Funnily enough, much of my work was based on problem solving (this tables food is running late, the delivery is missing items, etc.) which transfers pefectly over to coding. Using creativity to find the most efficent solution.
 
