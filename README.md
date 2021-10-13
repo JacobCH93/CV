@@ -12,8 +12,8 @@ Assistant Manager
 
 **Greene King** (09/2015 - 01/2018)  
 Deputy Gerenral Manager
--Management of the daily running of the bar restaurant
--Trained as a manager by the biggest pub company in the world
+- Management of the daily running of the bar restaurant
+- Trained as a manager by the biggest pub company in the world
 
 ## Skills
 
