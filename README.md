@@ -11,7 +11,7 @@ Assistant Manager
 - Problem solving
 
 **Greene King** (09/2015 - 01/2018)  
-Deputy Gerenral Manager
+Deputy General Manager
 - Management of the daily running of the bar restaurant
 - Trained as a manager by the biggest pub company in the world
 
