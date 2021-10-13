@@ -14,12 +14,12 @@ Born and raised in London, and coding sparked my curiostiy. Previously I worked 
 ## Work Experience
 
 **Youngs & co. (Jan/2018  - Oct/2018)  
-Assistant Manager
+Assistant Manager**
 - Ordering, stock management
 - Managing people and staff
 
 **Greene King (Sep/2015 - Jan/2018)  
-Deputy General Manager
+Deputy General Manager**
 - Management of the daily running of the bar restaurant
 - I trained as a manager by the biggest pub company in the world
 
