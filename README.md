@@ -11,7 +11,7 @@ Born and raised in London, and coding sparked my curiosity. Previously I worked 
 | ----------------------------     | ------------------------     | ----------------- |
 | **FizzBuzz Pair-Programming**    | A TDD FizzBuzz Challenge     | Ruby, Cloud9      |
 | **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design   |
-| **Many future projects to come** | **TBD**                      | **TBD**
+|   Acebook challenge              | Social media site            | Rails, HTML, CSS  |
 
 ***
 ## <a name="work-experience">Work-Experience</a>
@@ -51,7 +51,7 @@ Of course I like my down time. But I confess I am a bit of a workaholic. From 12
 
 #### Makers Academy (Sep/2021 - Jan/2022)
 Highly selective 12 week coding bootcamp
-We started by mastering command lines and ruby as well as developing skills in test driven development and pair programming.
+We started by mastering command lines and ruby as well as developing skills in test driven development and pair programming. Then moved on to ther languages sych as JavaScript, HTML, CSS and Ruby on Rails, working in larger teams.
 
 #### Middlesex University (Sep/2016 - Mar/2018)
 - Bsc- (Adult) Nursing with registration
