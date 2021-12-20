@@ -11,7 +11,7 @@ Born and raised in London, and coding sparked my curiosity. Previously I worked 
 | ----------------------------     | ------------------------     | ----------------- |
 | **FizzBuzz Pair-Programming**    | A TDD FizzBuzz Challenge     | Ruby, Cloud9      |
 | **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design   |
-|   Acebook challenge              | Social media site            | Rails, HTML, CSS  |
+| **Acebook challenge**            | Social media site            | Rails, HTML, CSS  |
 
 ***
 ## <a name="work-experience">Work-Experience</a>
