@@ -1,5 +1,5 @@
 # Jacob Hanrahan
-### Coding Enthusiast
+### Software Developer
 
 | [Projects](#projects) | [Work-Experience](#work-experience) | [Skills](#skills) | [Education](#education) | [Interests](#interests) 
 ***
