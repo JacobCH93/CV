@@ -9,7 +9,7 @@ Born and raised in London, and coding sparked my curiosity. Previously I worked 
 
 | Name                             | Description                  | Tech/tools            | Link                                               |
 | ----------------------------     | ------------------------     | ----------------------|----------------------------------------------------|
-| **Travel Agency**                | Travel Website               | HTML, CSS, JavaSscript|<a href='https://github.com/JacobCH93/Travel-Agency-CSS-HTML'<a>|
+| **[Travel Agency][1]**                | Travel Website               | HTML, CSS, JavaSscript|https://github.com/JacobCH93/Travel-Agency-CSS-HTML
 | **Skeleton Key**                 | Chrome Extension tool        | JavaScript, CSS, HTML | https://github.com/willjshark/skeleton-key.        |
 | **Acebook challenge**            | Social media site            | Rails, HTML, CSS      | https://github.com/Zimmja/acebook-blue-magpies.    |
 
@@ -67,3 +67,5 @@ We started by mastering command lines and ruby as well as developing skills in t
 - Scuba Diving
 - Rock Climbing
 - Painting (but I'm a begginner)
+
+[1]:https://github.com/JacobCH93/Travel-Agency-CSS-HTML
