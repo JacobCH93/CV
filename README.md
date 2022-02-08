@@ -7,11 +7,11 @@ Born and raised in London, and coding sparked my curiosity. Previously I worked 
 ***
 ## <a name="projects">Projects</a>
 
-| Name                             | Description                  | Tech/tools        |
-| ----------------------------     | ------------------------     | ----------------- |
-|https:https://github.com/JacobCH93/Travel-Agency-CSS-HTML  | A TDD FizzBuzz Challenge     | Ruby, Cloud9      |
-| **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design   |
-| **Acebook challenge**            | Social media site            | Rails, HTML, CSS  |
+| Name                             | Description                  | Tech/tools            | Link                                               |
+| ----------------------------     | ------------------------     | ----------------------|----------------------------------------------------|
+| **Travel Agency**                | Travel Website               | HTML, CSS, JavaSscript| https://github.com/JacobCH93/Travel-Agency-CSS-HTML|
+| **The Future Fuels Initiative**  | Eco-friendly fuel development| Wix, Web-design       |
+| **Acebook challenge**            | Social media site            | Rails, HTML, CSS      |
 
 ***
 ## <a name="work-experience">Work-Experience</a>
