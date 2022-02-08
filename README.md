@@ -7,11 +7,11 @@ Born and raised in London, and coding sparked my curiosity. Previously I worked 
 ***
 ## <a name="projects">Projects</a>
 
-| Name                             | Description                  | Tech/tools            |                                              |
-| ----------------------------     | ------------------------     | ----------------------|
-| **[Travel Agency][1]**                | Travel Website               | HTML, CSS, JavaSscript|
-| **[Skeleton Key][2]**                 | Chrome Extension tool        | JavaScript, CSS, HTML |
-| **[Acebook challenge][3]**            | Social media site            | Rails, HTML, CSS      |
+| Name                         | Description                  | Tech/tools            |                                              |
+| -----------------------------| ------------------------     | ----------------------|
+| **[Travel Agency][1]**       | Travel Website               | HTML, CSS, JavaSscript|
+| **[Skeleton Key][2]**        | Chrome Extension tool        | JavaScript, CSS, HTML |
+| **[Acebook challenge][3]**   | Social media site            | Rails, HTML, CSS      |
 
 ***
 ## <a name="work-experience">Work-Experience</a>
